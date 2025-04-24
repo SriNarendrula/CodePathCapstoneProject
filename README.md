@@ -1,5 +1,7 @@
 # Random Restaurant Picker Nearby
 
+
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -114,3 +116,4 @@
 **Yelp API Examples:**
 - `GET /businesses/search?term=food&latitude=...&longitude=...`
 - `GET /businesses/{id}`
+  
