@@ -1,5 +1,16 @@
 # Random Restaurant Picker Nearby
 
+## ✅ Required Features
+
+The following **required** functionality is completed:
+
+- [x] App fetches a list of nearby restaurants using the Yelp API  
+- [x] Restaurants are displayed in a `UITableView` with name, category, and distance  
+- [x] App uses tab navigation to switch between the restaurant list and random picker  
+- [x] Clicking a table cell expands to show full restaurant information (multiline label)  
+- [x] A "Pick Random" tab button selects a restaurant and displays its name  
+- [x] Yelp data is fetched and displayed using HTTPS with an API key  
+- [x] Basic error handling and API failure cases are accounted for  
 
 
 ## Table of Contents
